@@ -1,4 +1,4 @@
-### Olá! Meu nome é Adison 👋
+### Olá! Meu nome é Adison
 
 ![Adison Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=AdisonSoares&show_icons=true&theme=yeblu)
 
