@@ -1,5 +1,7 @@
 ### Olá! Meu nome é Adison
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adison-soares-ab6b59190/)
+
 ![Adison Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=AdisonSoares&show_icons=true&theme=yeblu)
 
 
