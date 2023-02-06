@@ -21,6 +21,7 @@
 <div align="center" valign="top"><br>
   <img align="center" alt="git" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="git" height="40" width="50" src="https://img.icons8.com/color/480/microsoft-sql-server.png">
+  <img align="center" alt="git" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
