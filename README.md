@@ -8,14 +8,7 @@
   <p align="center">
     Sou programador Back End e estou aprofundando meus estudos na área de desenvolvimento
   </p>
- 
-</div>
-
-<div align="center">
-  <a href="https://github.com/AdisonSoares">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdisonSoares&count_private=true&include_all_commits=true&show_icons=true&theme=yeblu&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdisonSoares&theme=yeblu&hide_border=false&&layout=compact"/>
-  </a>
+  
 </div>
 
 <div align="center" valign="top"><br>
