@@ -8,8 +8,13 @@
   <p align="center">
     Sou programador Back End e estou aprofundando meus estudos na área de desenvolvimento
   </p>
-  
+
 </div>
+
+
+![Adison GitHub stats](https://github-readme-stats.vercel.app/api?username=AdisonSoares&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdisonSoares&layout=compact)
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="java" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
