@@ -15,6 +15,9 @@
 ![Adison GitHub stats](https://github-readme-stats.vercel.app/api?username=AdisonSoares&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdisonSoares&layout=compact)
 
+  <p align="center">
+   Essas são algumas tecnologias que tenho conhecimento e utilizo
+  </p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="java" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
