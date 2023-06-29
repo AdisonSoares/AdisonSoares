@@ -31,6 +31,7 @@
   <img align="center" alt="linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="docker" height="40" width="50" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
      <img align="center" alt="notion" height="40" width="50" src="https://img.icons8.com/color/256/notion--v1.png">
+   <img align="center" alt="chatgpt" height="40" width="50" src="https://static.vecteezy.com/system/resources/previews/021/059/825/non_2x/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg">
 </div><br>
 
 <div align="center">
