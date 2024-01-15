@@ -8,16 +8,13 @@
   <p align="center">
     Sou programador Back End e estou aprofundando meus estudos na área de desenvolvimento
   </p>
-
 </div>
 <div align="center">
-  <a href="https://github.com/AdisonSoares">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdisonSoares&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="400cm" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJmM21teDEyOGQ2em5nMHZ0MTVicXdza2twNnYwc3RnMW91ZDAyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
-
-  <p align="center">
-   Essas são algumas tecnologias que tenho conhecimento e utilizo
-  </p>
+<p align="center">
+  Essas são algumas tecnologias que tenho conhecimento e utilizo
+</p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="java" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
