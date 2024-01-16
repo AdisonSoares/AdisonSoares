@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou programador Back End e estou aprofundando meus estudos na área de desenvolvimento
+    Sou programador Java e estou aprofundando meus estudos na área de desenvolvimento
   </p>
 </div>
 <div align="center">
